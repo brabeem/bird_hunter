@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "_khelyaKhelyaiGarxu", "_khelyaKhelyaiGarxu.exe", "{5B9D2802-B8FD-470E-A474-EA317F309755}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = E:\game folder\_khelyaKhelyaiGarxu\Debug\_khelyaKhelyaiGarxu.exe
+		RemoteMachine = DESKTOP-F7IBD1V
+		StartingDirectory = E:\game folder\_khelyaKhelyaiGarxu\Debug
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B9D2802-B8FD-470E-A474-EA317F309755}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEE8D4EF-B10E-4E8A-B43B-60A34ECA08FA}
+	EndGlobalSection
+EndGlobal

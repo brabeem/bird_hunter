@@ -1,0 +1,4 @@
+﻿  backgroundMovingClass.cpp
+E:\game folder\_khelyaKhelyaiGarxu\backgroundMovingClass.cpp(65,28): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+E:\game folder\_khelyaKhelyaiGarxu\backgroundMovingClass.cpp(65,22): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+  _khelyaKhelyaiGarxu.vcxproj -> E:\game folder\_khelyaKhelyaiGarxu\Debug\_khelyaKhelyaiGarxu.exe
